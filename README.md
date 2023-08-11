@@ -1,4 +1,4 @@
-## Running application server 🎲
+## 🎲 Running application server 
 
 ```sh
 npx expo start
@@ -7,7 +7,7 @@ npx expo ios
 npx expo web
 ```
 
-## Installation ✅
+## ✅ Installation 
 
 ```sh
 npx create-expo-app -e with-router
@@ -35,3 +35,11 @@ npm i @testing-library/react-hooks@7.0.2
 - [Jest: Jest Expo](https://docs.expo.dev/develop/unit-testing)
 - [Testing Libray: React Native](https://callstack.github.io/react-native-testing-library/docs/getting-started)
 - [Async Storage: React Native](https://react-native-async-storage.github.io/async-storage/docs/install)
+
+## 🎁 Project Images 
+<p align="center">
+  <img src="assets/images/img-1.jpg" alt="accessibility 1" style="margin: 10px; width: 30%;">
+  <img src="assets/images/img-2.jpg" alt="accessibility 2" style="margin: 10px; width: 30%;">
+  <img src="assets/images/img-3.jpg" alt="accessibility 3" style="margin: 10px; width: 30%; padding: 500px;">
+</p>
+
