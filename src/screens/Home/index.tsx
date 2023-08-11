@@ -41,7 +41,7 @@ export default function Home() {
         <Text className="font-semibold text-xl text-white">
           Bem vindo, Dev!
         </Text>
-        <Input newTask={newTask} setNewTasks={setNewTasks} />
+        <Input newTask={newTask} setNewTask={setNewTasks} />
         <Button
           text="Adicionar"
           color="bg-blue-500"
