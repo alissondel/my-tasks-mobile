@@ -22,7 +22,7 @@ npx expo install @react-native-async-storage/async-storage
 npm i @testing-library/react-hooks@7.0.2
 ```
 
-## 📝 Documentações ultilizadas na instalação do projeto
+## 📝 Documents used in the installation of the project
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
